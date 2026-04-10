@@ -82,7 +82,7 @@ The app supports a dark mode for better user experience.
 ---
 
 ## **Demo Video**
-![Watch the video](https://github.com/user-attachments/assets/a8cb70a0-32a2-4bd6-b6bd-f804a5347219)
+<video src="https://github.com/user-attachments/assets/a8cb70a0-32a2-4bd6-b6bd-f804a5347219" width="100%" controls></video>
 ---
 
 ## **Future Scope**
