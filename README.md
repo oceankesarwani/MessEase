@@ -82,10 +82,7 @@ The app supports a dark mode for better user experience.
 ---
 
 ## **Demo Video**
-<video src="./Demo-video.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
-
+![Watch the video](https://github.com/user-attachments/assets/a8cb70a0-32a2-4bd6-b6bd-f804a5347219)
 ---
 
 ## **Future Scope**
