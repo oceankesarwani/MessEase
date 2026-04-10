@@ -82,7 +82,9 @@ The app supports a dark mode for better user experience.
 ---
 
 ## **Demo Video**
-[Watch Demo](https://github.com/user-attachments/assets/02c9048d-0d8a-4c44-aea7-d3542ae30826)
+<video src="Demo-video.mp4" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 
 ---
 
