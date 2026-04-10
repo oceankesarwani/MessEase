@@ -82,9 +82,7 @@ The app supports a dark mode for better user experience.
 ---
 
 ## **Demo Video**
-<video src="Demo-video.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+![Watch the video](Demo-video.mp4)
 
 ---
 
